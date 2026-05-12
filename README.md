@@ -229,11 +229,6 @@ pasien-covid/
 ├── README.md                    # Dokumentasi proyek
 ├── pasien_covid.ipynb          # Jupyter Notebook utama
 ├── requirements.txt            # Dependencies
-│
-└── assets/
-    ├── correlation_plot.png    # Plot korelasi fitur
-    ├── confusion_matrix_rf.png # Confusion matrix RF
-    └── distribution_plot.png   # Distribusi target
 ```
 
 ## 🔍 Detail Teknis
