@@ -321,7 +321,7 @@ class_weight: 'balanced'  # Penimbang untuk imbalanced data
 5. **Data Quality**: Dataset publik mungkin memiliki quality issues
 6. **Ethical Considerations**: Model hanya untuk support decision-making, bukan replacement dokter
 
-## 👨‍💻 Author
+<!-- ## 👨‍💻 Author
 
 **Oktazz**
 - GitHub: [@Oktazz](https://github.com/Oktazz)
@@ -339,7 +339,7 @@ Kontribusi sangat diterima! Untuk berkontribusi:
 
 ## 📝 Lisensi
 
-Proyek ini dilisensikan di bawah MIT License - lihat file [LICENSE](LICENSE) untuk detail.
+Proyek ini dilisensikan di bawah MIT License - lihat file [LICENSE](LICENSE) untuk detail. -->
 
 ## 🙏 Acknowledgments
 
